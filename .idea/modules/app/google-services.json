@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642736389516",
+    "firebase_url": "https://top10sms-fa3c6.firebaseio.com",
+    "project_id": "top10sms-fa3c6",
+    "storage_bucket": "top10sms-fa3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642736389516:android:83d9dbd07cd21f145a6aa9",
+        "android_client_info": {
+          "package_name": "com.teleosms.a5x3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642736389516-m7ig66d5oquvu5k37lpia75a1jhqkg9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teleosms.a5x3",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "642736389516-0ocpjr6csk0ft7o34an4eh5evlbl2gct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwVTTW5VWJ_qQvPxICbqiBZlbXMrR0TV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642736389516-0ocpjr6csk0ft7o34an4eh5evlbl2gct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
